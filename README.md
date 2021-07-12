@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Tips!
+
+at the begining of the vue installation if you encounter an error like cant access address use sudo for vue 3 its all...
